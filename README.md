@@ -1,17 +1,19 @@
 # statsData
-Data sets for introductory statistics, originally from OLI Statistics at CMU.
+Data sets for introductory statistics.
 
-used under CC license
+These sets originally from OLI Statistics at CMU and used under CC-BY license:
 
-created the following shortened urls:
+* actor.RData 
+* actor.csv 
+* animals.RData 
+* graduation.RData 
+* height.RData 
+* lbd1-1.RData 
+* lbd1-3.RData 
+* olympics.RData
+* sdintuition.RData
+* seed.RData
 
-* https://git.io/actor.RData 
-* https://git.io/actor.csv 
-* https://git.io/animals.RData 
-* https://git.io/graduation.RData 
-* https://git.io/height.RData 
-* https://git.io/lbd1-1.RData 
-* https://git.io/lbd1-3.RData 
-* https://git.io/olympics.RData
-* https://git.io/sdintuition.RData
-* https://git.io/seed.RData
+This set assembled by Leigh Nataro, distributed by Lumen Learning, used under CC-BY license:
+
+* usedCars.Rdata
